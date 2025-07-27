@@ -1,0 +1,15 @@
+Index: project1
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>功能 1\r\n功能 2\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/project1 b/project1
+--- a/project1	(revision f15bcb044379e825fcc1fd243ae6e2d835049f24)
++++ b/project1	(date 1753631281579)
+@@ -1,2 +1,2 @@
+ 功能 1
+-功能 2
++功能 2
+\ No newline at end of file
